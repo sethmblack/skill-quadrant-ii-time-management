@@ -4,7 +4,7 @@ description: Apply Covey's Time Management Matrix to diagnose where time is goin
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4776
+  version: 1.0.4777
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
